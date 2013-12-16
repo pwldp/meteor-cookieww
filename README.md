@@ -3,7 +3,7 @@
 meteor-cookiewww
 ================
 
-[Avatec - Cookie Warning Window](http://code.google.com/p/jquery-cookieww/) packaged for Meteor
+[Avatec - Cookie Warning Window](http://code.google.com/p/jquery-cookieww/) packaged for Meteor to deal with the EU Cookie Law.
 
 
 ## How to install
