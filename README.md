@@ -12,3 +12,7 @@ meteor-cookiewww
 3. `mrt add cookieww`.
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pwldp/meteor-cookieww/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
